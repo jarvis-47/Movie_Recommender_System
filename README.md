@@ -1,6 +1,6 @@
 # Enhancing Recommendation Systems: A comparative analysis of matrix factorization techniques and collaborative filtering integration
 <div align="center">
-  <img src="https://github.com/jarvis-47/Movie_Recommender_System/blob/main/portfolio-2.jpg" width="300" height="230"/>
+  <img src="https://github.com/jarvis-47/Movie_Recommender_System/blob/main/portfolio-2.jpg" width="400" height="250"/>
 </div>
 
 ## Project Overview
