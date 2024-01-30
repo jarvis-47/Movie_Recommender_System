@@ -1,4 +1,7 @@
 # Enhancing Recommendation Systems: A comparative analysis of matrix factorization techniques and collaborative filtering integration
+<div align="center">
+  <img src="https://github.com/jarvis-47/Movie_Recommender_System/blob/main/portfolio-2.jpg" width="300" height="230"/>
+</div>
 
 ## Project Overview
 This repository contains the implementation of an advanced movie recommendation system, leveraging the power of matrix factorization techniques. The project aims to provide an in-depth understanding of how various matrix factorization methods, particularly Singular Value Decomposition (SVD) and Non-Negative Matrix Factorization (NMF), can be integrated with collaborative filtering to enhance the effectiveness of recommendation systems.
